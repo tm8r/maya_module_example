@@ -1,0 +1,4 @@
+global proc createCube(){
+    polyCube();
+    print "created";
+}
